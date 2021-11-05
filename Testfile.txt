@@ -1,0 +1,2 @@
+Test the git merge, commit
+Test the git merge, commit
